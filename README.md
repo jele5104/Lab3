@@ -1,1 +1,2 @@
-# Lab3
+# Jeong Min Lee
+# CSCI 3308 Lab 3
